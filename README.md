@@ -1,3 +1,7 @@
+## 👋 About This Profile
+Welcome to my GitHub profile repository! I am a Computer Science student with a strong interest in C++, web technologies, and problem-solving. This space highlights my technical skills, projects, and learning progress as I work toward building impactful software solutions and growing as a developer.
+
+
 # 💫 About Me:
 🔭 I’m currently working on C++ and Web Development<br>👯 I’m looking to collaborate on Web Dev projects<br>🤝 I’m looking for help with Porjects and Internships<br>🌱 I’m currently learning C++, Python<br>💬 Ask me about Mathematics, Number Theory<br>
 
